@@ -2,30 +2,26 @@
 <!-- TeamNexus additions -->
 <manifest>
 
-    <remote name="nexus"
-            fetch="https://github.com/"
-            revision="refs/heads/ln-14.1" />
-
     <!-- Applications -->
-    <project path="packages/apps/TheNexus" name="TeamNexus/android_packages_apps_TheNexus" remote="nexus" />
+    <project path="packages/apps/TheNexus" name="TeamNexus/android_packages_apps_TheNexus" remote="github" revision="ln-14.1" />
 
     <!-- Vendor -->
-    <project path="vendor/nexus" name="TeamNexus/android_vendor_nexus" remote="nexus" />
-    <project path="vendor/samsung/zero-common" name="TeamNexus/android_vendor_samsung_zero-common" remote="nexus" />
+    <project path="vendor/nexus" name="TeamNexus/android_vendor_nexus" remote="github" revision="ln-14.1" />
+    <project path="vendor/samsung/zero-common" name="TeamNexus/android_vendor_samsung_zero-common" remote="github" revision="ln-14.1" />
 
     <!-- Device-Trees -->
-    <project path="device/samsung/zero-common" name="TeamNexus/android_device_samsung_zero-common" remote="nexus" />
-    <project path="device/samsung/zerofltexx" name="TeamNexus/android_device_samsung_zerofltexx" remote="nexus" />
-    <project path="device/samsung/zerofltecan" name="TeamNexus/android_device_samsung_zerofltecan" remote="nexus" />
-    <project path="device/samsung/zeroltexx" name="TeamNexus/android_device_samsung_zeroltexx" remote="nexus" />
-    <project path="device/samsung/zeroltecan" name="TeamNexus/android_device_samsung_zeroltecan" remote="nexus" />
+    <project path="device/samsung/zero-common" name="TeamNexus/android_device_samsung_zero-common" remote="github" revision="ln-14.1" />
+    <project path="device/samsung/zerofltexx" name="TeamNexus/android_device_samsung_zerofltexx" remote="github" revision="ln-14.1" />
+    <project path="device/samsung/zerofltecan" name="TeamNexus/android_device_samsung_zerofltecan" remote="github" revision="ln-14.1" />
+    <project path="device/samsung/zeroltexx" name="TeamNexus/android_device_samsung_zeroltexx" remote="github" revision="ln-14.1" />
+    <project path="device/samsung/zeroltecan" name="TeamNexus/android_device_samsung_zeroltecan" remote="github" revision="ln-14.1" />
 
     <!-- Kernel-Trees -->
-    <project path="kernel/samsung/exynos7420" name="TeamNexus/android_kernel_samsung_exynos7420" remote="nexus" />
+    <project path="kernel/samsung/exynos7420" name="TeamNexus/android_kernel_samsung_exynos7420" remote="github" revision="ln-14.1" />
 
     <!-- Hardware-Trees -->
-    <project path="hardware/nexus" name="TeamNexus/android_hardware_nexus" remote="nexus" />
-    <project path="hardware/samsung" name="TeamNexus/android_hardware_samsung" remote="nexus" />
+    <project path="hardware/nexus" name="TeamNexus/android_hardware_nexus" remote="github" revision="ln-14.1" />
+    <project path="hardware/samsung" name="TeamNexus/android_hardware_samsung" remote="github" revision="ln-14.1" />
     <project path="hardware/samsung_slsi-cm/exynos" name="LineageOS/android_hardware_samsung_slsi-cm_exynos" remote="github" />
     <project path="hardware/samsung_slsi-cm/exynos5" name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" remote="github" />
     <project path="hardware/samsung_slsi-cm/openmax" name="LineageOS/android_hardware_samsung_slsi-cm_openmax" remote="github" />
