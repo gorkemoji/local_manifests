@@ -6,6 +6,7 @@
     <project path="packages/apps/TheNexus" name="TeamNexus/android_packages_apps_TheNexus" remote="github" revision="ln-14.1" />
 
     <!-- Magisk -->
+	<remove-project name="LineageOS/android_system_extras_su" />
     <project path="packages/magisk" name="TeamNexus/android_packages_magisk" remote="github" revision="ln-14.1" />
     <project path="packages/magisk/manager" name="TeamNexus/android_packages_magisk_manager" remote="github" revision="ln-14.1" />
     <project path="packages/magisk/jni/magiskpolicy" name="TeamNexus/android_packages_magisk_magiskpolicy" remote="github" revision="ln-14.1" />
