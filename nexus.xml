@@ -5,6 +5,14 @@
     <!-- Applications -->
     <project path="packages/apps/TheNexus" name="TeamNexus/android_packages_apps_TheNexus" remote="github" revision="ln-14.1" />
 
+    <!-- Magisk -->
+    <project path="packages/magisk" name="TeamNexus/android_packages_magisk" remote="github" revision="ln-14.1" />
+    <project path="packages/magisk/manager" name="TeamNexus/android_packages_magisk_manager" remote="github" revision="ln-14.1" />
+    <project path="packages/magisk/jni/magiskpolicy" name="TeamNexus/android_packages_magisk_magiskpolicy" remote="github" revision="ln-14.1" />
+    <project path="packages/magisk/jni/ndk-compression" name="TeamNexus/android_packages_magisk_ndk-compression" remote="github" revision="ln-14.1" />
+    <project path="packages/magisk/jni/selinux" name="TeamNexus/android_packages_magisk_selinux" remote="github" revision="ln-14.1" />
+    <project path="packages/magisk/jni/su" name="TeamNexus/android_packages_magisk_su" remote="github" revision="ln-14.1" />
+
     <!-- Vendor -->
     <project path="vendor/nexus" name="TeamNexus/android_vendor_nexus" remote="github" revision="ln-14.1" />
     <project path="vendor/samsung/zero-common" name="TeamNexus/android_vendor_samsung_zero-common" remote="github" revision="ln-14.1" />
