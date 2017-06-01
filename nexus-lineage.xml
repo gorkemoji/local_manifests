@@ -35,5 +35,8 @@
 
 	<!-- Etc -->
 	<project path="external/stlport" name="LineageOS/android_external_stlport" />
+	
+	<!-- LineageOS Overrides -->
+	<remove-project name="LineageOS/android_packages_apps_CMUpdater" />
 
 </manifest>
