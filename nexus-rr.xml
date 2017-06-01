@@ -35,5 +35,11 @@
 
 	<!-- Etc -->
 	<project path="external/stlport" name="LineageOS/android_external_stlport" revision="cm-14.1" />
+	
+	<!-- ResurrectionRemix Overrides -->
+	<remove-project name="android_build" />
+	<remove-project name="android_vendor_resurrection" />
+	<project path="build" name="TeamNexus/android_build_resurrection" revision="nougat" />
+	<project path="vendor/cm" name="TeamNexus/android_vendor_resurrection" revision="nougat" />
 
 </manifest>

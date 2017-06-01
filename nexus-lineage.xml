@@ -26,9 +26,6 @@
 	<!-- Application-Sources -->
 	<project path="packages/apps/TheNexus" name="TeamNexus/android_packages_apps_TheNexus" />
 
-	<!-- Substratum's ThemeInterfacer -->
-	<project path="packages/services/ThemeInterfacer" name="substratum/interfacer" revision="n-rootless" />
-
 	<!-- Magisk -->
 	<project path="packages/magisk" name="TeamNexus/android_packages_magisk" />
 	<project path="packages/magisk/jni/magiskpolicy" name="TeamNexus/android_packages_magisk_magiskpolicy" />
