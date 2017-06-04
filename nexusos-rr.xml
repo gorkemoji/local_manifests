@@ -26,13 +26,6 @@
 	<!-- Application-Sources -->
 	<project path="packages/apps/TheNexus" name="TeamNexus/android_packages_apps_TheNexus" revision="cm-14.1" />
 
-	<!-- Magisk -->
-	<project path="packages/magisk" name="TeamNexus/android_packages_magisk" revision="cm-14.1" />
-	<project path="packages/magisk/jni/magiskpolicy" name="TeamNexus/android_packages_magisk_magiskpolicy" revision="cm-14.1" />
-	<project path="packages/magisk/jni/ndk-compression" name="TeamNexus/android_packages_magisk_ndk-compression" revision="cm-14.1" />
-	<project path="packages/magisk/jni/selinux" name="TeamNexus/android_packages_magisk_selinux" revision="cm-14.1" />
-	<project path="packages/magisk/jni/su" name="TeamNexus/android_packages_magisk_su" revision="cm-14.1" />
-
 	<!-- Etc -->
 	<project path="external/stlport" name="LineageOS/android_external_stlport" revision="cm-14.1" />
 	
