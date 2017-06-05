@@ -36,7 +36,7 @@
 	<remove-project name="packages_apps_ResurrectionStats" />
 	<remove-project name="android_packages_apps_OmniSwitch" />
 	<remove-project name="android_packages_apps_StorageManager" />
-	<project path="build" name="TeamNexus/android_build_resurrection" revision="nougat" />
-	<project path="vendor/cm" name="TeamNexus/android_vendor_resurrection" revision="nougat" />
+	<project path="build" name="TeamNexus/android_build" revision="cm-14.1" />
+	<project path="vendor/cm" name="TeamNexus/android_vendor_resurrection" revision="cm-14.1" />
 
 </manifest>
