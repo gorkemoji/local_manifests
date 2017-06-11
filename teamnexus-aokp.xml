@@ -10,7 +10,7 @@
 	<project path="device/samsung/zeroltecan" name="TeamNexus/android_device_samsung_zeroltecan" revision="aokp-7.1" />
 
 	<!-- Vendor folder -->
-	<project path="vendor/nexus" name="TeamNexus/android_vendor_nexus" revision="nx-14.1" />
+	<project path="vendor/nexus" name="TeamNexus/android_vendor_nexus" revision="nx-7.1" />
 	<project path="vendor/samsung/zero-common" name="TeamNexus/android_vendor_samsung_zero-common" revision="nx-7.1" />
 
 	<!-- Kernel -->
