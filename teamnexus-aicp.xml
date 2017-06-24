@@ -17,7 +17,7 @@
 	<project path="kernel/samsung/exynos7420" name="TeamNexus/android_kernel_samsung_exynos7420" revision="nx-7.1" />
 
 	<!-- Hardware -->
-	<project path="hardware/samsung" name="LineageOS/android_hardware_samsung" revision="cm-14.1" />
+	<project path="hardware/samsung" name="TeamNexus/android_hardware_samsung" revision="nx-7.1" />
 	<project path="hardware/samsung_slsi-cm/exynos" name="LineageOS/android_hardware_samsung_slsi-cm_exynos" revision="cm-14.1" />
 	<project path="hardware/samsung_slsi-cm/exynos5" name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" revision="cm-14.1" />
 	<project path="hardware/samsung_slsi-cm/openmax" name="LineageOS/android_hardware_samsung_slsi-cm_openmax" revision="cm-14.1" />
@@ -25,6 +25,8 @@
 
 	<!-- Application-Sources -->
 	<project path="packages/apps/TheNexus" name="TeamNexus/android_packages_apps_TheNexus" revision="nx-7.1" />
+	<project path="packages/apps/TheNexus/libs/material-dialogs" name="afollestad/material-dialogs" revision="master" />
+	<project path="packages/apps/TheNexus/libs/MaterialProgressBar" name="DreaminginCodeZH/MaterialProgressBar" revision="master" />
 
 	<!-- Etc -->
 	<project path="external/stlport" name="LineageOS/android_external_stlport" revision="cm-14.1" />
