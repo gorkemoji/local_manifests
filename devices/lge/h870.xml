@@ -4,6 +4,8 @@
 
 	<!-- Device Trees -->
 	<project path="device/lge/h870" name="TeamNexus/android_device_lge_h870" revision="nx-7.1" />
+	<project path="device/lge/g6-common" name="TeamNexus/android_device_lge_g6-common" revision="nx-7.1" />
+	<project path="device/lge/msm8996-common" name="TeamNexus/android_device_lge_msm8996-common" revision="nx-7.1" />
 
 	<!-- Kernel -->
 	<project path="kernel/lge/msm8996" name="TeamNexus/android_kernel_lge_msm8996" revision="nx-7.1" />
