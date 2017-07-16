@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Manifest for LineageOS and LineageOS based roms-->
+<manifest>
+
+	<!-- Device Trees -->
+	<project path="device/lge/h870" name="TeamNexus/android_device_lge_h870" revision="nx-7.1" />
+
+	<!-- Kernel -->
+	<project path="kernel/lge/msm8996" name="TeamNexus/android_kernel_lge_msm8996" revision="nx-7.1" />
+
+</manifest>
