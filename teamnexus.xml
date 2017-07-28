@@ -7,8 +7,6 @@
 
 	<!-- Application-Sources -->
 	<project path="packages/apps/TheNexus" name="TeamNexus/android_packages_apps_TheNexus" revision="nx-7.1" />
-	<project path="packages/apps/TheNexus/libs/material-dialogs" name="afollestad/material-dialogs" revision="master" />
-	<project path="packages/apps/TheNexus/libs/MaterialProgressBar" name="DreaminginCodeZH/MaterialProgressBar" revision="master" />
 
 	<!-- Etc -->
 	<project path="external/stlport" name="LineageOS/android_external_stlport" revision="cm-14.1" />
