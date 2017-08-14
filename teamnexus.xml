@@ -2,13 +2,17 @@
 <!-- Manifest for LineageOS and LineageOS based roms-->
 <manifest>
 
+	<remote name="nx-github"
+			fetch="https://github.com/"
+			revision="nx-7.1" />
+
 	<!-- Vendor folder -->
-	<project path="vendor/nexus" name="TeamNexus/android_vendor_nexus" revision="nx-7.1" />
+	<project path="vendor/nexus" name="TeamNexus/android_vendor_nexus" remote="nx-github" />
 
 	<!-- Application-Sources -->
-	<project path="packages/apps/TheNexus" name="TeamNexus/android_packages_apps_TheNexus" revision="nx-7.1" />
+	<project path="packages/apps/TheNexus" name="TeamNexus/android_packages_apps_TheNexus" remote="nx-github" />
 
 	<!-- Etc -->
-	<project path="external/stlport" name="LineageOS/android_external_stlport" revision="cm-14.1" />
+	<project path="external/stlport" name="LineageOS/android_external_stlport" remote="nx-github" revision="cm-14.1" />
 
 </manifest>
