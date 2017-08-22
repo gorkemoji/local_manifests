@@ -4,7 +4,7 @@
 
 	<remote name="nx-github"
 			fetch="https://github.com/"
-			revision="nx-7.1" />
+			revision="nx-8.0" />
 
 	<!-- Vendor folder -->
 	<project path="vendor/nexus" name="TeamNexus/android_vendor_nexus" remote="nx-github" />
