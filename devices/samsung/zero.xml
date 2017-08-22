@@ -18,7 +18,7 @@
 	<!-- Hardware -->
 	<project path="hardware/samsung" name="TeamNexus/android_hardware_samsung" remote="nx-github" />
 	<project path="hardware/samsung_slsi-cm/exynos" name="TeamNexus/android_hardware_samsung_slsi-cm_exynos" remote="nx-github" />
-	<project path="hardware/samsung_slsi-cm/exynos5" name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" remote="nx-github" revision="cm-14.1" />
+	<project path="hardware/samsung_slsi-cm/exynos5" name="TeamNexus/android_hardware_samsung_slsi-cm_exynos5" remote="nx-github" />
 	<project path="hardware/samsung_slsi-cm/openmax" name="LineageOS/android_hardware_samsung_slsi-cm_openmax" remote="nx-github" revision="cm-14.1" />
 	<project path="hardware/samsung_slsi-cm/exynos7420" name="TeamNexus/android_hardware_samsung_slsi-cm_exynos7420" remote="nx-github" />
 
