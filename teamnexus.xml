@@ -12,7 +12,4 @@
 	<!-- Application-Sources -->
 	<project path="packages/apps/TheNexus" name="TeamNexus/android_packages_apps_TheNexus" remote="nx-github" />
 
-	<!-- Etc -->
-	<project path="external/stlport" name="LineageOS/android_external_stlport" remote="nx-github" revision="cm-14.1" />
-
 </manifest>
