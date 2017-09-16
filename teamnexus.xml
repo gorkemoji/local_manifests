@@ -9,9 +9,6 @@
 	<!-- Vendor folder -->
 	<project path="vendor/nexus" name="TeamNexus/android_vendor_nexus" remote="nx-github" />
 
-	<!-- Application-Sources -->
-	<project path="packages/apps/TheNexus" name="TeamNexus/android_packages_apps_TheNexus" remote="nx-github" />
-
 	<!-- OpenGApps -->
 	<project path="vendor/opengapps/build" name="opengapps/aosp_build" remote="nx-github" revision="master" />
 
