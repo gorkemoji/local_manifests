@@ -9,12 +9,4 @@
 	<!-- Vendor folder -->
 	<project path="vendor/nexus" name="TeamNexus/android_vendor_nexus" remote="nx-github" />
 
-	<!-- OpenGApps -->
-	<project path="vendor/opengapps/build" name="opengapps/aosp_build" remote="nx-github" revision="master" />
-
-	<!-- OpenGApps Packages -->
-	<project path="vendor/opengapps/sources/all" name="opengapps/all" clone-depth="1" remote="nx-github" revision="master" />
-	<project path="vendor/opengapps/sources/arm" name="opengapps/arm" clone-depth="1" remote="nx-github" revision="master" />
-	<project path="vendor/opengapps/sources/arm64" name="opengapps/arm64" clone-depth="1" remote="nx-github" revision="master" />
-
 </manifest>
