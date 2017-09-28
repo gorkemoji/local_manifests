@@ -10,6 +10,8 @@
 	<project path="device/samsung/zeroltecan" name="TeamNexus/android_device_samsung_zeroltecan" remote="nx-github" />
 	<project path="device/samsung/zerofltespr" name="TeamNexus/android_device_samsung_zerofltespr" remote="nx-github" />
 	<project path="device/samsung/zeroltespr" name="TeamNexus/android_device_samsung_zeroltespr" remote="nx-github" />
+	<project path="device/samsung/zeroflteskt" name="TeamNexus/android_device_samsung_zeroflteskt" remote="nx-github" />
+	<project path="device/samsung/zerolteskt" name="TeamNexus/android_device_samsung_zerolteskt" remote="nx-github" />
 
 	<!-- Vendor folder -->
 	<project path="vendor/samsung/zero-common" name="TeamNexus/android_vendor_samsung_zero-common" remote="nx-github" />
