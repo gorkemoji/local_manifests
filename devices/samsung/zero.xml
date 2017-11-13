@@ -2,28 +2,28 @@
 <!-- Manifest for LineageOS and LineageOS based roms-->
 <manifest>
 
-	<!-- Device Trees -->
-	<project path="device/samsung/zero-common" name="TeamNexus/android_device_samsung_zero-common" remote="nx-github" />
-	<project path="device/samsung/zerofltexx" name="TeamNexus/android_device_samsung_zerofltexx" remote="nx-github" />
-	<project path="device/samsung/zeroltexx" name="TeamNexus/android_device_samsung_zeroltexx" remote="nx-github" />
-	<project path="device/samsung/zerofltecan" name="TeamNexus/android_device_samsung_zerofltecan" remote="nx-github" />
-	<project path="device/samsung/zeroltecan" name="TeamNexus/android_device_samsung_zeroltecan" remote="nx-github" />
-	<project path="device/samsung/zerofltespr" name="TeamNexus/android_device_samsung_zerofltespr" remote="nx-github" />
-	<project path="device/samsung/zeroltespr" name="TeamNexus/android_device_samsung_zeroltespr" remote="nx-github" />
-	<project path="device/samsung/zeroflteskt" name="TeamNexus/android_device_samsung_zeroflteskt" remote="nx-github" />
-	<project path="device/samsung/zerolteskt" name="TeamNexus/android_device_samsung_zerolteskt" remote="nx-github" />
+    <!-- Device Trees -->
+    <project path="device/samsung/zero-common" name="TeamNexus/android_device_samsung_zero-common" remote="nexus" />
+    <project path="device/samsung/zerofltexx" name="TeamNexus/android_device_samsung_zerofltexx" remote="nexus" />
+    <project path="device/samsung/zeroltexx" name="TeamNexus/android_device_samsung_zeroltexx" remote="nexus" />
+    <project path="device/samsung/zerofltecan" name="TeamNexus/android_device_samsung_zerofltecan" remote="nexus" />
+    <project path="device/samsung/zeroltecan" name="TeamNexus/android_device_samsung_zeroltecan" remote="nexus" />
+    <project path="device/samsung/zerofltespr" name="TeamNexus/android_device_samsung_zerofltespr" remote="nexus" />
+    <project path="device/samsung/zeroltespr" name="TeamNexus/android_device_samsung_zeroltespr" remote="nexus" />
+    <project path="device/samsung/zeroflteskt" name="TeamNexus/android_device_samsung_zeroflteskt" remote="nexus" />
+    <project path="device/samsung/zerolteskt" name="TeamNexus/android_device_samsung_zerolteskt" remote="nexus" />
 
-	<!-- Vendor folder -->
-	<project path="vendor/samsung/zero-common" name="TeamNexus/android_vendor_samsung_zero-common" remote="nx-github" />
+    <!-- Vendor folder -->
+    <project path="vendor/samsung/zero-common" name="TeamNexus/android_vendor_samsung_zero-common" remote="nexus" />
 
-	<!-- Kernel -->
-	<project path="kernel/samsung/exynos7420" name="TeamNexus/android_kernel_samsung_exynos7420" remote="nx-github" />
+    <!-- Kernel -->
+    <project path="kernel/samsung/exynos7420" name="TeamNexus/android_kernel_samsung_exynos7420" remote="nexus" />
 
-	<!-- Hardware -->
-	<project path="hardware/samsung" name="TeamNexus/android_hardware_samsung" remote="nx-github" />
-	<project path="hardware/samsung_slsi-cm/exynos" name="TeamNexus/android_hardware_samsung_slsi-cm_exynos" remote="nx-github" />
-	<project path="hardware/samsung_slsi-cm/exynos5" name="TeamNexus/android_hardware_samsung_slsi-cm_exynos5" remote="nx-github" />
-	<project path="hardware/samsung_slsi-cm/openmax" name="TeamNexus/android_hardware_samsung_slsi-cm_openmax" remote="nx-github" />
-	<project path="hardware/samsung_slsi-cm/exynos7420" name="TeamNexus/android_hardware_samsung_slsi-cm_exynos7420" remote="nx-github" />
+    <!-- Hardware -->
+    <project path="hardware/samsung" name="TeamNexus/android_hardware_samsung" remote="nexus" />
+    <project path="hardware/samsung_slsi-cm/exynos" name="TeamNexus/android_hardware_samsung_slsi-cm_exynos" remote="nexus" />
+    <project path="hardware/samsung_slsi-cm/exynos5" name="TeamNexus/android_hardware_samsung_slsi-cm_exynos5" remote="nexus" />
+    <project path="hardware/samsung_slsi-cm/openmax" name="TeamNexus/android_hardware_samsung_slsi-cm_openmax" remote="nexus" />
+    <project path="hardware/samsung_slsi-cm/exynos7420" name="TeamNexus/android_hardware_samsung_slsi-cm_exynos7420" remote="nexus" />
 
 </manifest>
