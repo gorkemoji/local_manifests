@@ -13,7 +13,7 @@
 
 
     <!-- Device Trees -->
-    <project path="device/samsung/klte-common" name="android_device_samsung_klte-common" remote="lineage" />
+    <project path="device/samsung/klte-common" name="android_device_samsung_klte-common" remote="TeamNexus" revision="nx-8.0-ril" />
     <project path="device/samsung/klte" name="android_device_samsung_klte" remote="lineage" />
     <project path="device/samsung/msm8974" name="android_device_samsung_msm8974-common" remote="lineage" />
     <project path="device/samsung/qcom-common" name="android_device_samsung_qcom-common" remote="lineage" />
