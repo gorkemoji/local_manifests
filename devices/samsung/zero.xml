@@ -6,6 +6,8 @@
     <project path="device/samsung/zero-common" name="TeamNexus/android_device_samsung_zero-common" remote="nexus" />
     <project path="device/samsung/zerofltexx" name="TeamNexus/android_device_samsung_zerofltexx" remote="nexus" />
     <project path="device/samsung/zeroltexx" name="TeamNexus/android_device_samsung_zeroltexx" remote="nexus" />
+    <project path="device/samsung/zeroflteduo" name="TeamNexus/android_device_samsung_zeroflteduo" remote="nexus" />
+    <project path="device/samsung/zerolteduo" name="TeamNexus/android_device_samsung_zerolteduo" remote="nexus" />
     <project path="device/samsung/zerofltecan" name="TeamNexus/android_device_samsung_zerofltecan" remote="nexus" />
     <project path="device/samsung/zeroltecan" name="TeamNexus/android_device_samsung_zeroltecan" remote="nexus" />
     <project path="device/samsung/zerofltespr" name="TeamNexus/android_device_samsung_zerofltespr" remote="nexus" />
