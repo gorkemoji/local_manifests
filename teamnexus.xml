@@ -4,7 +4,7 @@
 
     <remote name="nexus"
             fetch="https://github.com"
-            revision="nx-8.0" />
+            revision="nx-8.1" />
 
     <remote name="fdroid" fetch="https://gitlab.com/" />
 
@@ -15,6 +15,6 @@
     <project path="packages/apps/FDroidPrivilegedExtension"
              name="fdroid/privileged-extension.git"
              remote="fdroid"
-             revision="refs/tags/0.2" />
+             revision="refs/tags/0.2.7" />
 
 </manifest>
