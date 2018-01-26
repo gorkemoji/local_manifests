@@ -20,6 +20,7 @@
 
     <!-- Kernel -->
     <project path="kernel/samsung/exynos7420" name="TeamNexus/android_kernel_samsung_exynos7420" remote="nexus" />
+    <project path="prebuilts/linaro" name="TeamNexus/android_prebuilts_linaro" remote="nexus" />
 
     <!-- Hardware -->
     <project path="hardware/samsung" name="TeamNexus/android_hardware_samsung" remote="nexus" />
