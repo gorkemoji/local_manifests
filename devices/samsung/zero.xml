@@ -15,12 +15,15 @@
     <project path="device/samsung/zeroflteskt" name="TeamNexus/android_device_samsung_zeroflteskt" remote="nexus" />
     <project path="device/samsung/zerolteskt" name="TeamNexus/android_device_samsung_zerolteskt" remote="nexus" />
 
-    <!-- Vendor folder -->
+    <!-- Vendor folders -->
     <project path="vendor/samsung/zero-common" name="TeamNexus/android_vendor_samsung_zero-common" remote="nexus" />
+    <project path="vendor/samsung/zero-can" name="TeamNexus/android_vendor_samsung_zero-can" remote="nexus" />
+    <project path="vendor/samsung/zero-duo" name="TeamNexus/android_vendor_samsung_zero-duo" remote="nexus" />
+    <project path="vendor/samsung/zero-non-spr" name="TeamNexus/android_vendor_samsung_zero-non-spr" remote="nexus" />
+    <project path="vendor/samsung/zero-spr" name="TeamNexus/android_vendor_samsung_zero-spr" remote="nexus" />
 
     <!-- Kernel -->
     <project path="kernel/samsung/exynos7420" name="TeamNexus/android_kernel_samsung_exynos7420" remote="nexus" />
-    <project path="prebuilts/linaro" name="TeamNexus/android_prebuilts_linaro" remote="nexus" />
 
     <!-- Hardware -->
     <project path="hardware/samsung" name="TeamNexus/android_hardware_samsung" remote="nexus" />
