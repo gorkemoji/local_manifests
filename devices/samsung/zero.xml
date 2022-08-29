@@ -4,27 +4,18 @@
 
     <remote name="nexus"
             fetch="https://github.com"
-            revision="nx-8.1" />
+            revision="nx-9.0" />
 
     <!-- Device Trees -->
     <project path="device/samsung/zero-common" name="TeamNexus/android_device_samsung_zero-common" remote="nexus" />
-    <project path="device/samsung/zerofltexx" name="TeamNexus/android_device_samsung_zerofltexx" remote="nexus" />
-    <project path="device/samsung/zeroltexx" name="TeamNexus/android_device_samsung_zeroltexx" remote="nexus" />
-    <project path="device/samsung/zeroflteduo" name="TeamNexus/android_device_samsung_zeroflteduo" remote="nexus" />
-    <project path="device/samsung/zerolteduo" name="TeamNexus/android_device_samsung_zerolteduo" remote="nexus" />
-    <project path="device/samsung/zerofltecan" name="TeamNexus/android_device_samsung_zerofltecan" remote="nexus" />
-    <project path="device/samsung/zeroltecan" name="TeamNexus/android_device_samsung_zeroltecan" remote="nexus" />
-    <project path="device/samsung/zerofltespr" name="TeamNexus/android_device_samsung_zerofltespr" remote="nexus" />
-    <project path="device/samsung/zeroltespr" name="TeamNexus/android_device_samsung_zeroltespr" remote="nexus" />
-    <project path="device/samsung/zeroflteskt" name="TeamNexus/android_device_samsung_zeroflteskt" remote="nexus" />
-    <project path="device/samsung/zerolteskt" name="TeamNexus/android_device_samsung_zerolteskt" remote="nexus" />
+    <project path="device/samsung/zerolteusc" name="gorkemoji/android_device_samsung_zerolteusc" remote="nexus" />
 
     <!-- Vendor folders -->
     <project path="vendor/samsung/zero-common" name="TeamNexus/android_vendor_samsung_zero-common" remote="nexus" />
-    <project path="vendor/samsung/zero-spr" name="TeamNexus/android_vendor_samsung_zero-spr" remote="nexus" />
+    <project path="vendor/samsung/zero-usc" name="gorkemoji/android_vendor_samsung_zero-usc" remote="nexus" />
 
     <!-- Kernel -->
-    <project path="kernel/samsung/exynos7420" name="TeamNexus/android_kernel_samsung_exynos7420" remote="nexus" />
+    <project path="kernel/samsung/exynos7420" name="gorkemoji/android_kernel_samsung_exynos7420" remote="nexus" />
 
     <!-- Kernel Modules -->
     <project path="kernel/modules/wireguard" name="LineageOS/android_kernel_modules_wireguard" />
