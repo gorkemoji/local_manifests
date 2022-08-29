@@ -17,9 +17,6 @@
     <!-- Kernel -->
     <project path="kernel/samsung/exynos7420" name="gorkemoji/android_kernel_samsung_exynos7420-tn" remote="nexus" />
 
-    <!-- Kernel Modules -->
-    <project path="kernel/modules/wireguard" name="LineageOS/android_kernel_modules_wireguard" />
-
     <!-- Hardware -->
     <project path="hardware/samsung" name="TeamNexus/android_hardware_samsung" remote="nexus" />
     <project path="hardware/samsung_slsi-cm/exynos" name="TeamNexus/android_hardware_samsung_slsi-cm_exynos" remote="nexus" />
