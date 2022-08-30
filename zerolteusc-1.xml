@@ -7,7 +7,7 @@
             revision="nx-9.0" />
 
     <!-- Device Trees -->
-    <project path="device/samsung/zero-common" name="TeamNexus/android_device_samsung_zero-common" remote="nexus" />
+    <project path="device/samsung/zero-common" name="gorkemoji/android_device_samsung_zero-common" remote="nexus" />
     <project path="device/samsung/zerolteusc" name="gorkemoji/android_device_samsung_zerolteusc" remote="nexus" />
 
     <!-- Vendor folders -->
